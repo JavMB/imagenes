@@ -3,7 +3,7 @@
     "nombre": "Estatua",
     "descripcion": "lugar muy bonito",
     "coordenadas": {
-      "nombre": "Denia, La Marina Alta, Alicante, Comunidad Valenciana, España",
+      "nombre": "Denia, La Marina Alta, Alicante, Comunidad Valenciana, EspaÃ±a",
       "latitud": 38.8408382,
       "longitud": 0.1061105
     },
@@ -16,5 +16,23 @@
       "2004"
     ],
     "correcta": 1
+  },
+  {
+    "nombre": "Estatua",
+    "descripcion": "lugar muy bonito",
+    "coordenadas": {
+      "nombre": "Denia, La Marina Alta, Alicante, Comunidad Valenciana, España",
+      "latitud": 38.8408382,
+      "longitud": 0.1061105
+    },
+    "localidad": "Denia",
+    "pregunta": "que year se construyo",
+    "respuestas": [
+      "2002",
+      "2001",
+      "2003",
+      "2004"
+    ],
+    "correcta": 0
   }
 ]
